@@ -1,0 +1,11 @@
+commit b0f578a16cdcdff316d7da902e4b6f989c2d9958
+Author: CCDM30 <CCDM30@CCDM.local>
+Date:   Thu Sep 7 10:41:20 2023 -0700
+
+    Encabezado y titulo
+
+commit 72dbc2ea0b9f4516723a4b487537c7962f483013
+Author: CCDM30 <CCDM30@CCDM.local>
+Date:   Thu Sep 7 10:32:27 2023 -0700
+
+    Archivos iniciales de la clase
