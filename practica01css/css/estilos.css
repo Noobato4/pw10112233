@@ -5,7 +5,7 @@
     pseudoelementos */
 
 body{
-    border: 1px solid red;
+   /* border: 1px solid red;*/
     font-size: 16px; /*1em*/
     margin: 0px auto;
      max-width:1024px;
@@ -22,6 +22,7 @@ header nav{
     width: 99%;
     margin: 0px auto;
     border-radius: 5px;
+    font-weight: bold;
 }
 
 header nav form{
@@ -57,7 +58,7 @@ header nav ul li {
 }
 
 #seccion01{
-    margin-top: 15px;
+    margin-top: 50px;
 }
 
 #seccion01 article{
@@ -68,3 +69,41 @@ header nav ul li {
     border: 5px solid rgba(150,150,150,0.25);
     width: 98%;
 }
+
+#seccion2{
+    margin-bottom: 50px;
+}
+
+#seccion02 article{
+    width: 33%;
+    border: red;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#seccion02 article input[type="submit"]{
+
+    border-radius: 5px;
+    background-color: white;
+    color: blue;
+    padding: 5px;
+    margin-left: 130px;
+
+}
+
+.nito{
+    font-weight: bold; /*nitas*/
+}
+
+.unaSeccion {
+    font-size: 4.5em;
+    
+}
+
+.otraSeccion{
+    font-size: 2.5em;
+}
+
+
+
