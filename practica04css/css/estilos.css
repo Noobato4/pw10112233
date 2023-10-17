@@ -1,0 +1,47 @@
+img {
+    width: auto;
+}
+
+body {
+    border: 4px solid red;
+    font-size: 16px;
+    margin: 0px auto;
+    max-width: 1024px;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 8px 3px;
+    text-align: left;
+}
+
+header article{
+    display: inline-block;
+    padding-bottom: 50px;
+    vertical-align: top;
+}
+
+#romero {
+    padding: 20px;
+}
+
+#menu {
+    margin-left: 10px;
+    padding-left: 0%;
+   
+}
+
+#bolitas
+{
+    vertical-align: top;
+}
+#flecha{
+vertical-align: middle;
+}
+#rosa{
+vertical-align: bottom;
+}
+
+.nito {
+    font-weight: bold;
+}
